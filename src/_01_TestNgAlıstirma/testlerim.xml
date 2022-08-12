@@ -1,0 +1,15 @@
+<suite name="MY Suite ">
+    <tests name="My Tests">
+        <test name="Test1">
+            <classes>
+                <class name="Gun06._05_Task_2"/>
+                <class name="Gun06._04_Task"/>
+            </classes>
+        </test>
+        <test name="Test2">
+            <classes>
+                <class name="Gun05._02_ContactUs"/>
+            </classes>
+        </test>
+    </tests>
+</suite>
